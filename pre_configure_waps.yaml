@@ -1,0 +1,9 @@
+wlc1:
+ host: 127.0.0.1
+ public_key: pubkey here
+ username: admin
+ mode: flexconnect
+ flex_native_vlan: 1
+ initial_sleep: 1
+ ap_group: mygroup
+ filter: AP

@@ -1,0 +1,57 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{6, 46}, {228, 188}}",
+        "class" : "TableView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "data_source_items" : "",
+          "row_height" : 44,
+          "frame" : "{{20, 20}, {200, 200}}",
+          "uuid" : "DCDFD931-A962-48C9-A171-29CF1310CE06",
+          "data_source_number_of_lines" : 1,
+          "class" : "TableView",
+          "data_source_font_size" : 18,
+          "background_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "data_source_delete_enabled" : true,
+          "name" : "tableview1"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 6}, {228, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "subject",
+          "flex" : "WB",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "D5616A69-4EE5-43C5-8F5C-DF409357A301",
+          "text" : "Select",
+          "alignment" : "left",
+          "class" : "Label",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      }
+    ],
+    "attributes" : {
+      "name" : "",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
